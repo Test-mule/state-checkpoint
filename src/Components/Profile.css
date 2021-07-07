@@ -1,0 +1,16 @@
+.Myimage{
+    width: 150px;
+    border-radius: 10px;
+}
+.about{
+    width: auto;
+    height: 600px;
+    text-align: center;
+    background-color: rgb(230, 225, 225);
+}
+.name{
+    margin-bottom: 50px;
+}
+.profession{
+    margin-top: 50px;
+}
